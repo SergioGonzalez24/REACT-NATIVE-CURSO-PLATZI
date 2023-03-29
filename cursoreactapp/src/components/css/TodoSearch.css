@@ -1,0 +1,21 @@
+.TodoSearchCSS_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+    size: 0cap;
+
+}
+
+.TodoSearchCSS_box {
+    width: 100%;
+    max-width: 500px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
